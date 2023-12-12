@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\SprawdzianZawodowe\Sprawdzian\Sprawdzian\bin\Debug\Sprawdzian.exe.config
+C:\Users\user\Desktop\SprawdzianZawodowe\Sprawdzian\Sprawdzian\bin\Debug\Sprawdzian.exe
+C:\Users\user\Desktop\SprawdzianZawodowe\Sprawdzian\Sprawdzian\bin\Debug\Sprawdzian.pdb
+C:\Users\user\Desktop\SprawdzianZawodowe\Sprawdzian\Sprawdzian\obj\Debug\Sprawdzian.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SprawdzianZawodowe\Sprawdzian\Sprawdzian\obj\Debug\Sprawdzian.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\SprawdzianZawodowe\Sprawdzian\Sprawdzian\obj\Debug\Sprawdzian.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SprawdzianZawodowe\Sprawdzian\Sprawdzian\obj\Debug\Sprawdzian.exe
+C:\Users\user\Desktop\SprawdzianZawodowe\Sprawdzian\Sprawdzian\obj\Debug\Sprawdzian.pdb
